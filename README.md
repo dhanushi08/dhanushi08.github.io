@@ -6,7 +6,7 @@
     * Team Name: Stack Smasher
     * Team Members: Dhanushi Prajapati, Kiet Cao
     * Github Repository URL: https://github.com/upenn-embedded/final-project-stack-smasher.git
-    * Github Pages Website URL: [for final submission]
+    * Github Pages Website URL: https://github.com/dhanushi08/dhanushi08.github.io
     * Description of hardware: (embedded hardware, laptop, etc) 
 
 ## Final Project Report
